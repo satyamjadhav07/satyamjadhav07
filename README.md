@@ -78,21 +78,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=satyamjadhav07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=satyamjadhav07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamjadhav07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=satyamjadhav07&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamjadhav07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=satyamjadhav07&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+</p> -->
 
 ---
 
